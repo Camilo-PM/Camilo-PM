@@ -1,4 +1,3 @@
-<!-- PORTADA -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Camilo-PM/Camilo-PM/main/banner-linkedin.png" alt="Data Analyst Banner" width="100%" />
 </p>
